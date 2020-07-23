@@ -1,1 +1,2 @@
-print("Hello Killer..:)")
+for i in range(5):
+    print("Hello Killer..:)")
